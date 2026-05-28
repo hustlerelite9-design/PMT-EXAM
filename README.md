@@ -1,2 +1,3 @@
 # PMT-EXAM
-for my pmt exam repository
+For my pmt exam repository
+author - Nitin Gunagi
